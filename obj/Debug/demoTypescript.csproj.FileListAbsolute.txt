@@ -1,0 +1,6 @@
+D:\Web\demoTypescript\demoTypescript\bin\demoTypescript.dll.config
+D:\Web\demoTypescript\demoTypescript\bin\demoTypescript.dll
+D:\Web\demoTypescript\demoTypescript\bin\demoTypescript.pdb
+D:\Web\demoTypescript\demoTypescript\obj\Debug\demoTypescript.dll
+D:\Web\demoTypescript\demoTypescript\obj\Debug\demoTypescript.pdb
+D:\Web\demoTypescript\demoTypescript\obj\Debug\demoTypescript.csprojResolveAssemblyReference.cache
